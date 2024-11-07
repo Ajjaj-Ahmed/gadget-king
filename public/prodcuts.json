@@ -1,0 +1,115 @@
+[
+    {
+        "product_id": "P1001",
+        "product_title": "Smartphone Alpha",
+        "product_image": "https://i.ibb.co.com/NNQXqKx/Smartphone-Alpha.png",
+        "category": "Phone",
+        "price": 699.99,
+        "description": "Flagship smartphone with an advanced camera system and smooth performance.",
+        "Specification": ["6.1-inch Display", "128GB Storage", "Dual SIM"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P1002",
+        "product_title": "Laptop Pro B",
+        "product_image": "https://i.ibb.co.com/HXNgtzR/laptop-Four.jpg",
+        "category": "Laptop",
+        "price": 999.99,
+        "description": "Powerful laptop with enhanced processing capabilities for professionals.",
+        "Specification": ["15.6-inch Display", "512GB SSD", "16GB RAM"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P1003",
+        "product_title": "Wireless Earbuds Z",
+        "product_image": "https://i.ibb.co.com/FD30scb/airbuds-One.png",
+        "category": "Accessories",
+        "price": 89.99,
+        "description": "Compact and ergonomic wireless earbuds with noise cancellation.",
+        "Specification": ["Bluetooth 5.0", "20 hours battery life", "Water resistant"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "P1004",
+        "product_title": "Gaming Laptop C",
+        "product_image": "https://i.ibb.co.com/CJVYr8J/laptop-One.png",
+        "category": "Laptop",
+        "price": 1299.99,
+        "description": "Gaming laptop with dedicated graphics and a high refresh rate display.",
+        "Specification": ["17-inch Display", "1TB SSD", "32GB RAM"],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P1005",
+        "product_title": "Phone Case Premium",
+        "product_image": "https://i.ibb.co.com/yYFFG2z/airbuds-Two.webp",
+        "category": "Accessories",
+        "price": 59.99,
+        "description": "Durable phone case with a soft touch and shockproof design.",
+        "Specification": ["Anti-Scratch", "Shock Absorption", "Wireless Charging Compatible"],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "P1006",
+        "product_title": "Laptop Essential E",
+        "product_image": "https://i.ibb.co.com/JHW2YKN/laptop-Six.png",
+        "category": "Laptop",
+        "price": 549.99,
+        "description": "Budget-friendly laptop with all essential features for everyday use.",
+        "Specification": ["14-inch Display", "128GB SSD", "4GB RAM"],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "P2001",
+        "product_title": "Smartphone Beta",
+        "product_image": "https://i.ibb.co.com/b6HpsYS/Smartphone-Beta.webp",
+        "category": "Phone",
+        "price": 849.99,
+        "description": "High-performance smartphone with long battery life and fast charging.",
+        "Specification": ["6.7-inch Display", "256GB Storage", "Triple Camera"],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P2002",
+        "product_title": "Laptop Air D",
+        "product_image": "https://i.ibb.co.com/pJpmm2w/laptop-Three.png",
+        "category": "Laptop",
+        "price": 749.99,
+        "description": "Lightweight and thin laptop designed for portability and performance.",
+        "Specification": ["13.5-inch Display", "256GB SSD", "8GB RAM"],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "P3001",
+        "product_title": "Laptop Ultra F",
+        "product_image": "https://i.ibb.co.com/zH3mRgr/laptop-Two.png",
+        "category": "Laptop",
+        "price": 899.99,
+        "description": "High-definition display and fast performance laptop for multi-tasking.",
+        "Specification": ["15.6-inch Display", "512GB SSD", "8GB RAM"],
+        "availability": true,
+        "rating": 4.6
+    },
+     {
+        "product_id": "P3002",
+        "product_title": "Laptop Prime G",
+        "product_image": "https://i.ibb.co.com/z2nP0bM/laptp-Five.png",
+        "category": "Laptop",
+        "price": 1050.00,
+        "description": "Premium laptop with high-speed processing and enhanced security features.",
+        "Specification": ["15.6-inch Display", "1TB SSD", "16GB RAM"],
+        "availability": true,
+        "rating": 4.8
+    }
+]
+
+
+

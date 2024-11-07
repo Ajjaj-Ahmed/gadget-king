@@ -54,7 +54,7 @@ const Navbar = () => {
         </div>
         {/* banner section */}
         <div className="max-w-4xl mx-auto z-50 relative bottom-40 border-2 border-white rounded-xl p-6 bg-transparent bg-opacity-65">
-            <img className="w-full rounded-xl" src={bannerImg} alt="" />
+            <img className="w-full rounded-xl h-[550px]" src={bannerImg} alt="" />
         </div>
         </div>
     );
