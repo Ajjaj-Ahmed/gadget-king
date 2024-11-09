@@ -1,22 +1,9 @@
-import { useEffect, useState } from "react";
+import { useLocation } from "react-router-dom";
 
 const Laptop = () => {
-    const [gadgets, setGadgets] = useState([]);
-
-    const [laptops, setLaptops] = useState([]);
-
-    useEffect(() => {
-        fetch('../../../public/prodcuts.json')
-            .then(res => res.json())
-            .then(data => setGadgets(data))
-    }, [])
-
-    
-        const groupLaptops = gadgets.filter(gadget => gadget.category == "Laptop")
-       
-
+    const location = useLocation();
+    console.log(location)
    
-
     return (
         <div>
            

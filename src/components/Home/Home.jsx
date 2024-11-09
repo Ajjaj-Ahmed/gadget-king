@@ -8,7 +8,6 @@ const Home = () => {
         <div>
            <Navbar></Navbar>
            <Gadgets></Gadgets>
-           {/* <Laptop></Laptop> */}
         </div>
     );
 };
